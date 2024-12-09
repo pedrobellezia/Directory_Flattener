@@ -1,0 +1,22 @@
+# Ignorar arquivos JSON gerados
+*.json
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar ambientes virtuais (se houver)
+venv/
+env/
+
+# Ignorar arquivos temporários do sistema operacional
+Thumbs.db
+.DS_Store
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de configuração do IDE (Ex: VS Code, PyCharm)
+.vscode/
+.idea/
